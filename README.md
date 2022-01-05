@@ -1,1 +1,1 @@
-ECHO is on.
+Deployed URL https://siva-pass-gen.netlify.app/
